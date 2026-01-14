@@ -1,0 +1,9 @@
+body {background-color:#EEE9BF; color:#78793F; padding:15px;}
+h1 {color:#79864B; text-align:center; margin-bottom:10px;}
+hr {border:none; height:2px; background-color:#BDB77C; margin:10px 0 15px;}
+p {line-height:1.6; text-align:justify;}
+ul {margin-left:25px;}
+li {margin-bottom:8px;}
+button {width:100%; padding:10px; margin-bottom:8px; background-color:#79864B; color: #EEE9BF; border:none; cursor:pointer; font-size: 14px;}
+button:hover {background-color:#78793F;}
+div {background-color:#BDB77C; padding:15px; border-radius:5px;}

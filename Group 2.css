@@ -10,3 +10,5 @@ button:hover {background-color:#78793F;}
 div {background-color:#BDB77C; padding:15px; border-radius:5px;}
 
 .title-bar {background:linear-gradient(90deg, #79864B, #BDB77C); color:#EEE9BF; padding:20px; text-align:center; font-size:28px; font-weight:bold; letter-spacing:2px; text-transform:uppercase; border-radius:5px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); margin-bottom: 15px;}
+.outline {color:#EEE9BF;text-shadow:-1px -1px 0 #78793F,1px -1px 0 #78793F,-1px 1px 0 #78793F,1px 1px 0 #78793F;}
+
